@@ -5,7 +5,7 @@ const m={ja:{header:`<ul><li><div class="header-logo"><a href="/">
 <img src="/img/search.svg"></button><input type="text" id="serach_text_area" placeholder="検索">
 </form></div></li><li><a href="/join">新規登録</a></li><li><a href="/login">ログイン</a></li></ul>`,
 footer:`<div class="footer_warn">
-<p>このサイトはScratch、TurboWarp、PenguinMod、Scartch Teamなどと提携や協力はしていません。ご注意ください。<p>
+<p>このサイトはScratch、TurboWarp、PenguinMod、Scratch Teamなどと提携や協力はしていません。ご注意ください。<p>
 </div><div class="footer_link"><dl><dt><span>このサイトについて</span></dt><dd>
 <a href="https://suport.celeritous.xct.f5.si"><span>サポート</span></a></dd><dd>
 <a href="https://wiki.celeritous.xct.f5.si"><span>wiki</span></a></dd><dd><a href="/contact">
